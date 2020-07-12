@@ -1,4 +1,4 @@
-# midway-hack
+# CollabOn
 
 The idea is to create a GitHub App which organizations can install to see what team members are doing in the form of Feed using GitHub Webhooks.  
 The feed will track following activities  
